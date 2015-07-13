@@ -12,7 +12,7 @@ Download the js file and add the script into footer after jQuery Library.
 
 ## Usage
 Very simple to use,
-- Select a region you wants to trigger the scroll plugin. For exmaple :
+- Select a region you wants to trigger the scroll plugin. For example :
 ```html
 <div class="YOUR REGION"> some content here </div>
 ```
