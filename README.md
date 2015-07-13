@@ -2,6 +2,8 @@
 
 A mini tool to detect mouse scroll wheel to trigger event you want!
 
+Enjoy! [DEMO](http://codepen.io/anon/pen/XbYbRW)
+
 Welcome to post your issue or comment let me know.
 
 ## Installation
