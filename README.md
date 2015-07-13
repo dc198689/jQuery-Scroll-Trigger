@@ -1,6 +1,5 @@
-# Scroll-Trigger
+# Scroll-Trigger [Beta Version]
 
-[Beta Version]
 A mini tool to detect mouse scroll wheel to trigger event you want!
 
 Welcome to post your issue or comment let me know.
