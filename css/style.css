@@ -1,0 +1,8 @@
+body {background: #2A2B30;}
+.clear {clear: both;}
+.container {width: 1170px; margin: 0 auto; margin-top: 10%;}
+.content-wrapper {width: 50%; float: left;}
+.content-wraper .content:after {clear: both;}
+.wrapper div.content {border-radius: 7px; border: 1px solid #000; min-height: 200px; margin: 5px 5px; background: #ededed; padding: 30px; font-size: 20px;}
+
+.sblocker {width: 80px; text-align: center; font-size: 12px; border: 1px solid #ccc; float: left; margin: 2px 5px;}
