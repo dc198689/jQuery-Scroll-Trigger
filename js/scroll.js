@@ -1,6 +1,7 @@
 (function($) {
     $.fn.scroll = function( options ) {
 
+        // Default Setting
         var settings = $.extend({
             lastAnimation    : 0,
             quietPeriod      : 500,
