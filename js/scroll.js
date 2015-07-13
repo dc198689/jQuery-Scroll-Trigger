@@ -1,3 +1,11 @@
+/***
+Version    : 0.1 [Beta]
+Author     : Tommy Chiu
+Contact    : tommychoo8689@gmail.com
+Description: A mini jquery plugin tool to detect the Scroll Up or Scroll Down to trigger anything event.
+Last Updated: 13/07/2015
+***/
+
 (function($) {
     $.fn.scroll = function( options ) {
 
