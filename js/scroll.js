@@ -47,7 +47,7 @@ Last Updated: 13/07/2015
                 lastAnimation = timeNow;
             }
 
-            $(this).bind('mousewheel DOMMouseScroll', function(event) {
+            $(this).bind('mousewheel DOMMouseScroll MozMousePixelScroll', function(event) {
                 event.preventDefault();
                 var delta = event.originalEvent.wheelDelta || -event.originalEvent.detail;
                 init(event, delta);
