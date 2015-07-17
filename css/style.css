@@ -1,9 +1,20 @@
-body {background: #2A2B30; font-family: 'Roboto', sans-serif; font-weight: 100;}
+body {background: #fff; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-weight: 100; color: #7B7B7B;}
 .clear {clear: both;}
-.container {width: 1170px; margin: 0 auto; margin-top: 10%;}
-.content-wrapper {width: 50%; float: left;}
+.title {font-size: 20px; text-align: center; margin-top: 70px; letter-spacing: 1px;}
+.version {font-size: 20px; text-align: center; margin-top: 0px; letter-spacing: 1px;}
+.subtitle {font-size: 16px; text-align: center; margin-top: 0px; letter-spacing: 1px;}
+.usage {font-size: 20px; text-align: center; margin-top: 30px; letter-spacing: 1px;}
+.usage-info {font-size: 16px; text-align: center; margin-top: 0px; letter-spacing: 1px;}
+.container {width: 100%; margin: 0 auto;}
+.content-wrapper {width: 100%; float: left;}
 .content-wraper .content:after {clear: both;}
-.wrapper div.content {border-radius: 7px; border: 1px solid #000; min-height: 200px; margin: 5px 5px; background: #ededed; padding: 30px; font-size: 20px;}
-.footer {text-align: center; color: #fff; margin-top: 30px;}
+.wrapper div.content {border-radius: 7px; border: 1px solid #F5F5F5; min-height: 300px; margin: 30px 3px; background: #F5F5F5; padding: 30px; font-size: 20px;}
+.footer {text-align: center; margin-top: 30px; letter-spacing: 1px;}
+.footer a, .usage-info a {color: #414141;}
 
-.sblocker {width: 80px; text-align: center; font-size: 12px; border: 1px solid #ccc; float: left; margin: 2px 5px;}
+.sblocker {width: 80px; text-align: center; font-size: 12px; border: 1px solid #ccc; float: left; margin: 2px 3px; padding: 10px; border-radius: 6px; letter-spacing: 1px;}
+
+@media screen and (min-width: 992px) {
+    .container, .usage-info {width: 1170px; margin: 0 auto;}
+    .wrapper div.content {margin: 0px 3px;}
+}
