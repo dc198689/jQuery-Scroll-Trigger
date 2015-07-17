@@ -1,7 +1,9 @@
 # Scroll-Trigger [Beta Version]
 
 Really simple to use, After the simple setup tutorial by Github@Tommy.
+
 On desktop or notebook Mode, use mouse scroll or scrollpad to trigger event you want with 「Scroll Up」and 「Scroll Down」.
+
 On Device Mode, Just swipe 「Left」,「Right」,「Up」,「Down」to trigger event you wants. 
 
 Download the pre-release 0.2 version to check it a demo usage.
