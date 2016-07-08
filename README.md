@@ -1,4 +1,4 @@
-# Scroll-Trigger [Beta Version 0.2]
+# jQuery-Swipe-Trigger [Beta Version 0.2]
 
 Really simple to use, After the simple setup tutorial by Github@Tommy.
 
