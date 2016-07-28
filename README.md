@@ -1,4 +1,4 @@
-# jQuery-Swipe-Trigger [Beta Version 0.2]
+# jQuery-Scroll-Trigger [Beta Version 0.2]
 
 Really simple to use, After the simple setup tutorial by Github@Tommy.
 
@@ -12,6 +12,13 @@ Enjoy!
 
 Welcome to post your issue or comment let me know. 
 I will reply as soon as possible.
+
+## Tested Environment ( Up to 28/7/2016 )
+- (Mac OSX 10.11.5) Chrome ver. 52.0.2743.82
+- (Mac OSX 10.11.5) Firefox ver. 47.01
+- (Mac OSX 10.11.5) Safari ver. 9.1.1
+- (iOS 9.3.3) Safari
+- (Android 4.2.2) Chrome
 
 ## History
 - 17/07/2015 (Added Swipe Function, Adjust Demo File)
